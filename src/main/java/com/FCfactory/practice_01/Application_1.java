@@ -1,7 +1,5 @@
-package com.FCfactory;
+package com.FCfactory.practice_01;
 
-import com.FCfactory.practice_01.Register;
-import com.FCfactory.practice_01.Register2;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
